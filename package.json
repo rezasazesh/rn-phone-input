@@ -1,6 +1,6 @@
 {
   "name": "rn-phone-input",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple, easy to use react-native phone input",
   "main": "lib/index.js",
   "scripts": {
